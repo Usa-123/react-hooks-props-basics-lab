@@ -1,12 +1,12 @@
 const user = {
-  name: "Liza",
-  city: "New York",
-  bio: "I made this!",
-  color: "firebrick",
+  name: "Usama Gedi",
+  city: "Garissa",
+  color: "blue",
+  bio: "I am a full-stack web developer passionate about building web apps.",
   links: {
-    github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
-  },
+    github: "https://github.com/usamage",
+    linkedin: "https://linkedin.com/in/usamage"
+  }
 };
 
 export default user;
